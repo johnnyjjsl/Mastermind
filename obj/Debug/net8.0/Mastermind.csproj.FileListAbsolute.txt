@@ -1,0 +1,14 @@
+/Users/a17069/Desktop/Mastermind/bin/Debug/net8.0/Mastermind
+/Users/a17069/Desktop/Mastermind/bin/Debug/net8.0/Mastermind.deps.json
+/Users/a17069/Desktop/Mastermind/bin/Debug/net8.0/Mastermind.runtimeconfig.json
+/Users/a17069/Desktop/Mastermind/bin/Debug/net8.0/Mastermind.dll
+/Users/a17069/Desktop/Mastermind/bin/Debug/net8.0/Mastermind.pdb
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.AssemblyInfoInputs.cache
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.AssemblyInfo.cs
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.csproj.CoreCompileInputs.cache
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.dll
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/refint/Mastermind.dll
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.pdb
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/Mastermind.genruntimeconfig.cache
+/Users/a17069/Desktop/Mastermind/obj/Debug/net8.0/ref/Mastermind.dll
